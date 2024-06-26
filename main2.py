@@ -8,7 +8,7 @@ Created on Tue Nov  9 11:48:35 2021
 import pandas as pd
 from PIL import Image
 import streamlit as st
-'from streamlit_drawable_canvas import st_canvas
+
 
 import utils.functions as functions
 from utils.SamplePreprocessor import preprocess
