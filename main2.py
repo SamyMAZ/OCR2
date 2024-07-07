@@ -29,7 +29,7 @@ import seaborn as sns
 
 #CONSTANTS
 DIR_PATH = "C:/Users/b.tabet/Documents/PRIVE/Projet/PyOCaRe/Package/"
-PATH     = "C:/Users/benja/Documents/Data Science/PyOCaRe/utils/images/"
+PATH     = "C:\Users\mazou\OneDrive\Documents\PyOCaRe_DemoStreamlit\utils\images"
 
 ##### SIDEBAR #####
 
