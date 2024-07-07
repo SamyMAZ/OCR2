@@ -28,7 +28,7 @@ import seaborn as sns
 
 
 #CONSTANTS
-DIR_PATH = "C:/Users/b.tabet/Documents/PRIVE/Projet/PyOCaRe/Package/"
+DIR_PATH = "C:/Users/mazou/AppData/Local/Packages"
 PATH     = "C:/Users/mazou/OneDrive/Documents/PyOCaRe_DemoStreamlit/utils/images"
 
 ##### SIDEBAR #####
